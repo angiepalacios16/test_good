@@ -31,9 +31,9 @@
       <div class="inner">
         <h3 class="masthead-brand text-primary">Test Good</h3>
         <nav class="nav nav-masthead justify-content-center">
-          <a class="nav-link active" href="#">Inicio</a>
-          <a class="nav-link" href="app/views/gallery.php">Galeria</a>
-          <a class="nav-link" href="#">Video y audio</a>
+          <a class="nav-link active" href="../../index.php">Inicio</a>
+          <a class="nav-link" href="gallery.php">Galeria</a>
+          <a class="nav-link" href="video.php">Video y audio</a>
           <a class="nav-link" href="#">Contacto</a>
         </nav>
       </div>
