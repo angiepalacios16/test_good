@@ -33,7 +33,7 @@
         <nav class="nav nav-masthead justify-content-center">
           <a class="nav-link active" href="#">Inicio</a>
           <a class="nav-link" href="app/views/gallery.php">Galeria</a>
-          <a class="nav-link" href="#">Video y audio</a>
+          <a class="nav-link" href="app/views/video.php">Video y audio</a>
           <a class="nav-link" href="#">Contacto</a>
         </nav>
       </div>
