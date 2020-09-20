@@ -38,8 +38,9 @@ body {
   display: -ms-flexbox;
   display: flex;
   color: #fff;
-  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
-  box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
+  /* text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+  box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5); */
+  font-size: 1.5rem;
 }
 
 .cover-container {
@@ -101,6 +102,12 @@ body {
   font-weight: 700;
 }
 
+/*
+* Gallery
+*/
+#gallery{
+  display:inline;
+}
 
 /*
  * Footer
