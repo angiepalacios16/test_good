@@ -40,8 +40,7 @@
     </header>
 
     <main role="main" class="inner cover">
-      <h1 class="cover-heading text-info text-center">Bienvenido a mi minisitio web Test good</h1>
-      <p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
+      <h1 class="cover-heading text-white text-center">Bienvenido a mi minisitio web Test good</h1>
       <p class="lead text-center">
         <a href="app/views/gallery.php" class="btn btn-lg btn-outline-primary">Continuar</a>
       </p>
@@ -49,12 +48,12 @@
 
     <footer class="mastfoot mt-auto text-center">
       <div class="inner">
-        <p>Cover template for <a href="https://getbootstrap.com/">Bootstrap</a>, by <a href="https://twitter.com/mdo">@mdo</a>.</p>
+        <p>Creado por Angie Palacios.</p>
       </div>
     </footer>
   </div>
 </body>
-<!-- <script src="app/assets/jquery/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-<script src="app/assets/jquery/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script> -->
+<script src="app/assets/jquery/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="app/assets/jquery/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 
 </html>
