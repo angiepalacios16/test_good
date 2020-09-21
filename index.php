@@ -34,7 +34,7 @@
           <a class="nav-link active" href="#">Inicio</a>
           <a class="nav-link" href="app/views/gallery.php">Galeria</a>
           <a class="nav-link" href="app/views/video.php">Video y audio</a>
-          <a class="nav-link" href="#">Contacto</a>
+          <a class="nav-link" href="app/views/contact.php">Contacto</a>
         </nav>
       </div>
     </header>
@@ -43,7 +43,7 @@
       <h1 class="cover-heading text-info text-center">Bienvenido a mi minisitio web Test good</h1>
       <p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
       <p class="lead text-center">
-        <a href="#" class="btn btn-lg btn-outline-primary">Continuar</a>
+        <a href="app/views/gallery.php" class="btn btn-lg btn-outline-primary">Continuar</a>
       </p>
     </main>
 

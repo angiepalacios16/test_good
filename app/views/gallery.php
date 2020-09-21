@@ -14,8 +14,8 @@ require_once('home/header.php');
   $folder->close();
   ?>
   <div id="gallery" class="w-100">
-    <button type="button" class="btn btn-outline-light btn-sm w-25 m-3">Regresar</button>
-    <button type="button" class="btn btn-outline-light btn-sm w-25 m-3">Continuar</button>
+    <a href="../../index.php" class="btn btn-outline-light btn-sm w-25 m-3">Regresar</a>
+    <a href="video.php" class="btn btn-outline-light btn-sm w-25 m-3">Continuar</a>
   </div>
 </div>
 <?php
