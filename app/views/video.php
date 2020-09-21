@@ -19,7 +19,7 @@ require_once('home/header.php');
   </div>
 </div>
 <?php
-// require_once('home/footer.php');
+require_once('home/footer.php');
 ?>
 <script src="https://www.youtube.com/iframe_api"></script>
 <script src="https://cdn.rawgit.com/labnol/files/master/yt.js"></script>

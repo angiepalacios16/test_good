@@ -19,5 +19,5 @@ require_once('home/header.php');
   </div>
 </div>
 <?php
-// require_once('home/footer.php');
+require_once('home/footer.php');
 ?>
