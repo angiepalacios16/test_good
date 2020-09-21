@@ -15,7 +15,7 @@ _En este proyecto se podra visualizar un página de inicio, dos páginas con mul
 * Abrir navegador he ingresar a la url localhost:puerto_configurado/test_good/index.php (http://localhost:8080/test_good/index.php)
 
 ## Construido con
-* En este proyecto se utilizó una plantilla de bootstrap en el siguiente link se encuentre como utilizarlo (_____) .
+* En este proyecto se utilizó una plantilla de bootstrap en el siguiente link se encuentre como utilizarlo (https://getbootstrap.com/docs/4.5/examples/) .
 * Se utilizó la libreria PHPMailer en el siguiente link se explica como instalarlo y utilizarlo (https://github.com/PHPMailer/PHPMailer).
 
 ## Autor

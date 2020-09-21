@@ -72,7 +72,7 @@ $email_body = '<!DOCTYPE html>
 </body>
 </html>';
 $oMail = new PHPMailer;
-$oMail->setFrom('angie.c.palacios.p@gmail.com');
+$oMail->setFrom('-----@gmail.com');
 $oMail->addAddress($mail);
 $oMail->Subject = $email_subject;
 $oMail->isHTML(true);
@@ -82,8 +82,8 @@ $oMail->SMTPSecure = 'ssl';
 $oMail->Host = 'ssl://smtp.gmail.com';
 $oMail->SMTPAuth = true;
 $oMail->Port = 465;
-$oMail->Username = 'angie.c.palacios.p@gmail.com';
-$oMail->Password = 'angie123*';
+$oMail->Username = '-----@gmail.com';
+$oMail->Password = '*******';
 if (!$oMail->send()) {
   echo "<script type='text/javascript'>
         alert('Error para enviar');
